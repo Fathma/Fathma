@@ -2,6 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=Fathma&color=orange)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fathma)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning Django Rest Framework
