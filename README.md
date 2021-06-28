@@ -1,6 +1,4 @@
-### Hi there 👋
-
-![](https://komarev.com/ghpvc/?username=Fathma&color=yellow)
+### Hi there 👋 <div align="center">![](https://komarev.com/ghpvc/?username=Fathma&color=yellow)</div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fathma&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
