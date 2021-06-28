@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Fathma&color=orange)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fathma&count_private=true&show_icons&theme=dark&title_color:green)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fathma&count_private=true&show_icons&theme=marko)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
