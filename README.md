@@ -4,7 +4,7 @@ I am a Software Engineer. Currently working at TulipTech.
 
 I have been working on Express.js(Node.js), Next.js(React.js), Redux, Mongodb(NoSQL) and MySql(SQL).
 
-I am a python enthusiast. These days I am Learning Django Rest Framework and and problem Solving.   
+I am a python enthusiast. These days I am problem Solving and learning Django Rest Framework.   
 
 I like sarcasm, music and thriller contents. 
 
@@ -14,6 +14,11 @@ I like sarcasm, music and thriller contents.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fathma&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) <div align="center">![](https://komarev.com/ghpvc/?username=Fathma&color=yellow)</div>
 
 
+<p>
+  <a href="https://www.linkedin.com/in/fathma-siddique-1a0412138/" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+</p> 
 
 <!--
 **Fathma/Fathma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
