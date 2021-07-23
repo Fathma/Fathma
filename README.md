@@ -4,7 +4,7 @@ I am a Software Engineer. Currently working at TulipTech.
 
 I have been working on Express.js(Node.js), Next.js(React.js), Redux, Mongodb(NoSQL) and MySql(SQL).
 
-I am a python enthusiast. These days I am focused on problem Solving and learning Django Rest Framework on my own time.   
+I am a python enthusiast.   
 
 I like sarcasm, music and thriller contents. 
 
