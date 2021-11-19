@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I am a Software Engineer. Currently working at TulipTech.
+I am a Software Engineer. Currently working at Binate Solutions Ltd.
 
 I have been working on Express.js(Node.js), Next.js(React.js), Redux, Mongodb(NoSQL) and MySql(SQL).
 
