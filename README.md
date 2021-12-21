@@ -8,6 +8,8 @@ I am a python enthusiast.
 
 I like sarcasm, music and thriller contents. 
 
+And wish I were a cow! No deadlines, no overthinking. JUST MOO!
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fathma&layout=compact&theme=merko&how_icons=true&hide=html,EJS,css,Less&exclude_repo=admin2)](https://github.com/anuraghazra/github-readme-stats)
 
