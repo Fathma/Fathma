@@ -2,7 +2,7 @@
 
 I am a Software Engineer. Currently working at Binate Solutions Ltd.
 
-I have been working on Express.js(Node.js), Next.js(React.js), Redux, Mongodb(NoSQL) and MySql(SQL).
+I have been working on JS technologies with Mongodb(NoSQL) and MySql(SQL).
 
 I am a python enthusiast.   
 
