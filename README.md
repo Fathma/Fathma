@@ -1,3 +1,4 @@
+<!--
 ### Hi there 👋 
 
 I am a Software Engineer. Currently working at Binate Solutions Ltd.
@@ -22,7 +23,7 @@ And wish I were a cow! No deadlines, no overthinking. JUST MOO!
   </a> &nbsp; 
 </p> 
 
-<!--
+
 **Fathma/Fathma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
